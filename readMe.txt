@@ -9,4 +9,6 @@ Git has a mutable index called stage.
 
 在master上的修改。
 
+在dev2上做的修改。
+
 
